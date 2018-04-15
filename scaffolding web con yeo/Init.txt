@@ -1,0 +1,8 @@
+Install yeoman (use node.js)
+npm install -g yo
+
+install generator angular
+npm install -g generator-angular
+
+init proyect
+yo angular
