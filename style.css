@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+    font-weight: 100;
+    background: #e9ebee;
+}
+h1{
+    text-align: center;
+    color: rgb(32, 8, 243);
+    text-shadow: 0px 0px 2px #fff;
+}
+
+.nombre{
+    font-size: 18px;
+}
+.curso{
+    font-style: italic;
+    font-size: 13px;
+}
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 5px 5px 5px #555;
+    background: #fff;
+    border-radius: 15px;
+    padding: 10px;
+}
+.cont-item{
+    border-bottom: thin solid #ccc;
+    padding: 10px;
+}
+
+button{
+    padding: 15px 20px;
+    color: #fff;
+    background-color: rgb(10, 111, 226);
+    margin: auto;
+    border-radius: 5px;
+
+}
+button:hover{
+    background-color: rgb(15, 15, 226);
+}
